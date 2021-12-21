@@ -21,8 +21,8 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
-  google_maps_flutter: ^2.0.6
-  location: ^4.3.0
+  google_maps_flutter: ^2.1.1
+  location: ^4.2.0
   flutter_polyline_points: ^1.0.0
   flutter:
     sdk: flutter
